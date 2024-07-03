@@ -5,8 +5,9 @@ My homework submissions for the "3D Computer Vision with Deep Learning Applicati
 
 ### HW1
 
-**Problem #1: Homography Estimation**  
-**Problem #2: Document Rectification**  
+**Problem 1: Homography Estimation**  
+**Problem 2: Document Rectification**  
+
 ### HW2
 
 **Problem 1: 2D-3D Matching**  
